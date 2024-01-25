@@ -1,0 +1,2 @@
+["Notebook App Description (Created on 16/12/2023)", "Warning: this is the description of the notebook app. It is still under massive development and has many bugs and problems. However, the notebook app for chakOS v1.0.0 is officialy debuting on the 28th of December 2023. Get ready for the release of chakOS's first ever GUI App!"]
+["macOS Catalina (Created on 18/12/2023)", "I accidentally deleted the main startup volume yesterday morning. I had to reinstall macOS Catalina."]
